@@ -1,0 +1,26 @@
+body{
+    color: black;
+}
+
+
+.form-container{
+    margin: auto;
+    padding: 20px;
+}
+
+input{
+    padding-left: 30px;
+    text-align: left;
+    width: 40vw;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 2px;
+    border-style: solid;
+}
+button{
+    width: 10vw;
+    height: 35px;
+    font-weight: bold;
+    font-size: 20px;
+}
